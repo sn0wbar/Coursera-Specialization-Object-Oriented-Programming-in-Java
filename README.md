@@ -6,10 +6,10 @@ This is a 4-course Coursera Specialization: Object Orientated Programming in Jav
 
 ***
 
-## COURSE 1: Java Programming: Solving Problems with Software
+#### Course 1: Java Programming: Solving Problems with Software
 
-## COURSE 2: Java Programming: Arrays, Lists, and Structured Data
+#### Course 2: Java Programming: Arrays, Lists, and Structured Data
 
-## COURSE 3: Object Oriented Programming in Java
+#### Course 3: Object Oriented Programming in Java
 
-## COURSE 4: Data Structures and Performance
+#### Course 4: Data Structures and Performance
